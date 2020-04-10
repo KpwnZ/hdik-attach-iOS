@@ -1,0 +1,9 @@
+Package: com.xcxiao.hdik-ios
+Name: hdik-iOS
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome tool of some sort!!
+Maintainer: XCXiao
+Author: XCXiao
+Section: System
+Tag: role::hacker
